@@ -23,9 +23,9 @@ This project is a collection of soothing and calming ambient sounds designed to 
   cd ambient-sounds-library
   ```
 3. Run
-    ```bash
- python app.py
-  ```
+```bash
+    python app.py
+ ```
 5. Open index.html in your browser.
 
 ---
