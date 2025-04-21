@@ -1,7 +1,7 @@
 # Ambient Sounds Library 
 
 Welcome to the **Ambient Sounds Library**!  
-This project is a collection of soothing and calming ambient sounds 🎧 designed to help you relax, focus, or unwind. Whether you need background sounds for meditation, studying, or sleeping, this project has you covered.  
+This project is a collection of soothing and calming ambient sounds designed to help you relax, focus, or unwind. Whether you need background sounds for meditation, studying, or sleeping, this project has you covered.  
 
 ---
 
@@ -22,8 +22,11 @@ This project is a collection of soothing and calming ambient sounds 🎧 designe
   ```bash
   cd ambient-sounds-library
   ```
-3. Run python app.py
-4. Open index.html in your browser.
+3. Run
+    ```bash
+ python app.py
+  ```
+5. Open index.html in your browser.
 
 ---
 
